@@ -1,5 +1,8 @@
+
 # SGU
 Projeto de IoT
+
+![Farmers Market Finder Demo](https://github.com/julio-cesar-leitao/SGU/blob/main/SGU-apresentacao3.gif)
 
 # TODO
 
